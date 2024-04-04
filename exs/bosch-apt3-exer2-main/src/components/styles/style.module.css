@@ -1,0 +1,24 @@
+.cardStyle {
+    background-color: gray;
+    border-radius: 20px;
+    margin: 0 auto;
+    width: 20vw;
+    height: 20vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgStyle {
+    width: 220px;
+    height: 220px;
+    border-radius: 20px;
+}
+
+.statusStyle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin-top: 5px;
+}

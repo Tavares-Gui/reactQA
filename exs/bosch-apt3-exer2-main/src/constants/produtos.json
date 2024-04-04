@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Perfume",
+    "desc": "Miguel Rousseouf",
+    "value": "100.00",
+    "image": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/volarium/catalog/produtos/volarium/perfume/perfume-feminino/perfume-feminino-ch-tradicional-importado-original.jpg",
+    "category": "Cosmetico",
+    "status": false
+  },
+  {
+    "id": 2,
+    "name": "Colar",
+    "desc": "Jand Karno em perolas",
+    "value": "2200.00",
+    "image": "https://cdn.awsli.com.br/600x450/1537/1537341/produto/152389745/01e29e7fcc.jpg",
+    "category": "Joia",
+    "status": false
+  },
+  {
+    "id": 3,
+    "name": "Capivara",
+    "desc": "CAPYBARA",
+    "value": "2500.00",
+    "image": "https://i.pinimg.com/originals/ee/04/8e/ee048e8915ec824de4f65edb75dd17ef.jpg",
+    "category": "meme",
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "Cavalo",
+    "desc": "CAVAAAAALO",
+    "value": "5555.00",
+    "image": "https://i.ytimg.com/vi/1xzGPPxKgJM/hqdefault.jpg",
+    "category": "meme",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "Kirby",
+    "desc": "Kirby caindo",
+    "value": "77.00",
+    "image": "https://th.bing.com/th/id/OIP.ytWZyvVudyhJw53Vawmr2QHaFj?rs=1&pid=ImgDetMain",
+    "category": "meme",
+    "status": true
+  }
+]
