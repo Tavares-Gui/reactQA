@@ -1,0 +1,9 @@
+.labels {
+    color: black;
+}
+
+.btn {
+    background-Color: 'Gray'; 
+    border-radius: '10px'; 
+    width: '150px';
+}
